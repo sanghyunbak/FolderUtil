@@ -14,7 +14,7 @@ def print_hi(name):
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
 
-ROOT_DIR = "E:\토렌트\Complete"
+ROOT_DIR = "D:\토렌트\Complete"
 
 
 def get_dir_list(dir: str) -> Iterator[tuple[AnyStr, list[AnyStr], list[AnyStr]]]:
